@@ -1,2 +1,2 @@
 # delta-demo
-this is the demo class for gitub class
+this is the demo class for gitub class.
